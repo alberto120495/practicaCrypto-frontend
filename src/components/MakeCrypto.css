@@ -1,0 +1,26 @@
+.form-group {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  margin: 15px;
+  width: 50%;
+}
+
+input {
+  margin-top: 5px;
+  padding: 10px;
+  outline: none;
+}
+
+.boton {
+  margin: 20px;
+  width: 50%;
+  display: flex;
+  justify-content: end;
+}
+
+.enviar {
+  padding: 5px;
+  background-color: #00c212;
+  border: 1px solid #008a9f;
+}
